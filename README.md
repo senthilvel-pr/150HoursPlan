@@ -1,4 +1,4 @@
-# 150HoursPlan
+# 150HoursPlan sync with dev
 30Days
 150HoursPlan/
 │── README.md
