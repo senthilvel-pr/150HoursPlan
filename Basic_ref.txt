@@ -1,0 +1,27 @@
+git add .
+git commit -m "XXXX YYYY ZZZ"
+git push
+
+
+Day 3 input from terminal
+PS C:\Data\150HoursPlan\day3-pydantic-validation> python main.py
+Enter API URL (or press Enter to use default): https://jsonplaceholder.typicode.com/users
+
+Day 3 output
+📡 Fetching data from: https://jsonplaceholder.typicode.com/users
+
+👉 Calling API now...
+
+✅ Total valid users: 10
+
+✔ Leanne Graham | Sincere@april.biz
+✔ Ervin Howell | Shanna@melissa.tv
+✔ Clementine Bauch | Nathan@yesenia.net
+✔ Patricia Lebsack | Julianne.OConner@kory.org
+✔ Chelsey Dietrich | Lucio_Hettinger@annie.ca
+✔ Mrs. Dennis Schulist | Karley_Dach@jasper.info
+✔ Kurtis Weissnat | Telly.Hoeger@billy.biz
+✔ Nicholas Runolfsdottir V | Sherwood@rosamond.me
+✔ Glenna Reichert | Chaim_McDermott@dana.io
+✔ Clementina DuBuque | Rey.Padberg@karina.biz
+PS C:\Data\150HoursPlan\day3-pydantic-validation> 
